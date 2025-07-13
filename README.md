@@ -1,0 +1,1 @@
+Neural Network with 3 layers, 1 hidden layer trained for on MNIST data set to 98.86 % accuracy. Application takes in any dimension image of a singular digit and predicts the digit along with the probabilities of other digits
